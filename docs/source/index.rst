@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+
+Lumache имеет свою документацию, размещенную на Read the Docs. 
